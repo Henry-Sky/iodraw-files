@@ -19,6 +19,9 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-11" value="帧&lt;div&gt;缓&lt;/div&gt;&lt;div&gt;冲&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="379" y="40" width="70" height="520" as="geometry" />
         </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
