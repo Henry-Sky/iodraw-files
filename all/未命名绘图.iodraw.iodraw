@@ -49,6 +49,9 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-28" value="检测器线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-29" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
