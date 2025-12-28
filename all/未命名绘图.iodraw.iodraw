@@ -167,7 +167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;帧缓冲队列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;帧&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;缓&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;冲&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;队&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="640" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
