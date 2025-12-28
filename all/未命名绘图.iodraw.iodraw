@@ -67,6 +67,9 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-31" value="3D框图" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="485" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-40" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
