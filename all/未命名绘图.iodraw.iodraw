@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MvOo3XFCt01PjL6WS0jm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-2" target="MvOo3XFCt01PjL6WS0jm-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="490" />
+              <mxPoint x="370" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="摄像头(720p/30fps)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="320" height="60" as="geometry" />
