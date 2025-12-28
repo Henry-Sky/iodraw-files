@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="690" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="视频流回调线程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="590" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-11" value="帧&lt;div&gt;缓&lt;/div&gt;&lt;div&gt;冲&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="379" y="60" width="69" height="410" as="geometry" />
@@ -28,10 +28,7 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-16" value="QLabel显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-3">
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="790" as="sourcePoint" />
             <mxPoint x="410" y="620" as="targetPoint" />
@@ -45,6 +42,15 @@
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-3" target="MvOo3XFCt01PjL6WS0jm-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="620" as="sourcePoint" />
+            <mxPoint x="410" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
