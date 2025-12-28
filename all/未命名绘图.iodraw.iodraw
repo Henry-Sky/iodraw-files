@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="200" width="70" height="360" as="geometry" />
+          <mxGeometry x="650" y="195" width="70" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
