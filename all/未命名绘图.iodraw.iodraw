@@ -16,17 +16,14 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="180" />
-              <mxPoint x="380" y="181" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-3" target="MvOo3XFCt01PjL6WS0jm-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
