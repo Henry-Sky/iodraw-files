@@ -56,7 +56,7 @@
           <mxGeometry x="510" y="555" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-31" value="3D框图" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="690" width="200" height="60" as="geometry" />
+          <mxGeometry x="510" y="640" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
