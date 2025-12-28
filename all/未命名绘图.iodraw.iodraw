@@ -16,7 +16,7 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="相机硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="视频流回调线程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
