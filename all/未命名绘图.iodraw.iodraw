@@ -28,6 +28,12 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
