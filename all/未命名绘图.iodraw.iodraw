@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="320" height="60" as="geometry" />
+          <mxGeometry x="40" y="480" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="视频流回调线程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-11" value="帧&lt;div&gt;缓&lt;/div&gt;&lt;div&gt;冲&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="379" y="40" width="69" height="410" as="geometry" />
+          <mxGeometry x="379" y="60" width="69" height="410" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-13" target="MvOo3XFCt01PjL6WS0jm-16">
           <mxGeometry relative="1" as="geometry" />
@@ -29,12 +29,12 @@
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-3" target="MvOo3XFCt01PjL6WS0jm-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="350" as="sourcePoint" />
-            <mxPoint x="400" y="300" as="targetPoint" />
+            <mxPoint x="350" y="790" as="sourcePoint" />
+            <mxPoint x="400" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-21" target="MvOo3XFCt01PjL6WS0jm-3">
