@@ -46,6 +46,9 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-28" target="MvOo3XFCt01PjL6WS0jm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-28" value="检测器线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="240" height="60" as="geometry" />
         </mxCell>
