@@ -7,7 +7,7 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvOo3XFCt01PjL6WS0jm-2" target="MvOo3XFCt01PjL6WS0jm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="相机硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-2" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MvOo3XFCt01PjL6WS0jm-3" value="视频流回调线程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
