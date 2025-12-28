@@ -46,10 +46,8 @@
         <mxCell id="MvOo3XFCt01PjL6WS0jm-19" value="帧对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MvOo3XFCt01PjL6WS0jm-27" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="470" width="200" height="200" as="geometry">
-            <mxRectangle x="510" y="470" width="140" height="30" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="MvOo3XFCt01PjL6WS0jm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
