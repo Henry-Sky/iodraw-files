@@ -13,6 +13,9 @@
         <mxCell id="X79iGFcVlvDdxPkHJYU5-3" value="人脸中心&lt;div&gt;为种子&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="X79iGFcVlvDdxPkHJYU5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
