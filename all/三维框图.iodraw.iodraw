@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X79iGFcVlvDdxPkHJYU5-1" value="BGR图+深度图+人脸ROI输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="190" height="60" as="geometry" />
+          <mxGeometry x="480" y="170" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X79iGFcVlvDdxPkHJYU5-2" value="泛洪算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X79iGFcVlvDdxPkHJYU5-3" value="泛洪种子&lt;div&gt;有效？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="270" width="80" height="80" as="geometry" />
@@ -27,9 +27,9 @@
             <mxPoint x="560" y="410" as="sourcePoint" />
             <mxPoint x="610" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="575" y="240" />
+              <mxPoint x="575" y="250" />
               <mxPoint x="690" y="240" />
-              <mxPoint x="690" y="190" />
+              <mxPoint x="690" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
