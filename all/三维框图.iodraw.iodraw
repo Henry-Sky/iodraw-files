@@ -109,7 +109,7 @@
           <mxGeometry x="515" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X79iGFcVlvDdxPkHJYU5-25" value="生成十二边线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
