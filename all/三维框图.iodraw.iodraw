@@ -13,10 +13,10 @@
         <mxCell id="X79iGFcVlvDdxPkHJYU5-3" value="泛洪种子&lt;div&gt;有效？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="730" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X79iGFcVlvDdxPkHJYU5-4" value="泛洪填充分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X79iGFcVlvDdxPkHJYU5-4" value="泛洪填充分割" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="515" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X79iGFcVlvDdxPkHJYU5-5" value="像素&amp;gt;500" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X79iGFcVlvDdxPkHJYU5-5" value="像素&amp;gt;500" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="535" y="374" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X79iGFcVlvDdxPkHJYU5-6" value="返回None" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
