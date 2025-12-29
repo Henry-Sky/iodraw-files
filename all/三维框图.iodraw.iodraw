@@ -87,7 +87,7 @@
         <mxCell id="X79iGFcVlvDdxPkHJYU5-19" value="PCA提取主方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X79iGFcVlvDdxPkHJYU5-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X79iGFcVlvDdxPkHJYU5-20" value="计算AABB包围盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
